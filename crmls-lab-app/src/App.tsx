@@ -6,6 +6,7 @@ import { Members } from './components/members'
 import { Membership } from './components/membership'
 import { NComp1 } from './components/ncomp1'
 import { NComp2 } from './components/ncomp2'
+import { NComp3 } from './components/ncomp3'
 function App() {
   return (
     <div>
@@ -16,6 +17,7 @@ function App() {
       <HotFix2 />
       <NComp1 />
       <NComp2 />
+      <NComp3 />
     </div>
   )
 }
