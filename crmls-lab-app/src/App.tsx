@@ -5,6 +5,7 @@ import { HotFix2 } from './components/hotfix2Comp'
 import { Members } from './components/members'
 import { Membership } from './components/membership'
 import { NComp1 } from './components/ncomp1'
+import { NComp2 } from './components/ncomp2'
 function App() {
   return (
     <div>
@@ -14,6 +15,7 @@ function App() {
       <Members />
       <HotFix2 />
       <NComp1 />
+      <NComp2 />
     </div>
   )
 }
