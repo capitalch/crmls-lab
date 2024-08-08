@@ -1,5 +1,8 @@
 export function Compliance() {
   return (
-    <button>Compliance</button>
+    <div style={{ display: 'flex',alignItems:'center' }}>
+      <div> Compliance</div>
+      <button>Compliance</button>
+    </div>
   )
 }
